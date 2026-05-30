@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-05-29T22:00:06.545Z
-Commit: Resolve timezone issues in date handling
+Timestamp: 2026-05-30T21:46:35.477Z
+Commit: Fix CSS styling bug on mobile devices
